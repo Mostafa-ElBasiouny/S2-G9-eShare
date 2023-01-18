@@ -1,0 +1,3 @@
+C:/Users/Mostafa Elbasiouny/CLionProjects/u/S2-G9-eShare/cmake-build-debug/CMakeFiles/S2_G9_eShare.dir
+C:/Users/Mostafa Elbasiouny/CLionProjects/u/S2-G9-eShare/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mostafa Elbasiouny/CLionProjects/u/S2-G9-eShare/cmake-build-debug/CMakeFiles/rebuild_cache.dir
